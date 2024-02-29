@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix Yolo 8.0.206 scale bug (#7821)
